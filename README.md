@@ -1,0 +1,1 @@
+Team project consisting in writing a pseudo-system that presents information about processes and other system information in a hierarchical file-like structure. The solution was built based on a tree and an adjacent matrix.
